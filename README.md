@@ -47,4 +47,4 @@ Tone Adjustments gives you seven independent sliders that let you shape the ligh
 
 ## Version
 
-1.2
+1.3
